@@ -69,7 +69,7 @@ Maham-GPT/
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/Maham-GPT.git
+git clone https://github.com/Maham72-ai/maham-gpt
 cd Maham-GPT
 
 ### 2. Backend Setup
