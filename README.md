@@ -127,7 +127,7 @@ FRONTEND_URL=http://localhost:5173
 
 ## 👩‍💻 Developed By
 
-# Maham_.
+### Maham_.
 
 Project: Maham GPT - AI Chatbot
 Built with ❤️ using FastAPI, React & Gemini AI
