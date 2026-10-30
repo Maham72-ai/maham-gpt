@@ -1,0 +1,42 @@
+# ===== SECRET KEYS - NEVER PUSH THESE =====
+.env
+.env.local
+.env.*.local
+
+# ===== PYTHON CACHE & VIRTUAL ENV =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+*.egg-info/
+.pytest_cache/
+qdrant_storage/
+*.log
+
+# ===== NODE MODULES - IGNORE ALL DEPENDENCIES =====
+node_modules/
+**/node_modules/
+frontend/node_modules/
+dist/
+build/
+.next/
+.vite/
+frontend/dist/
+frontend/build/
+
+# ===== OS GENERATED FILES =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE & EDITOR FILES =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== DEPLOYMENT FOLDERS =====
+.vercel

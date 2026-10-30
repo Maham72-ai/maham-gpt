@@ -1,0 +1,7 @@
+Sample Knowledge Base for RAG Demo
+------------------------------------
+1. About University: COMSATS University Islamabad was established in 1998. It has 7 campuses. Grading policy: A is 4.0 GPA.
+2. Library Rules: Library opens 8am to 8pm. No food allowed. Fine for late book is 10 PKR per day.
+3. Chatbot Project: Must use MongoDB for history, Qdrant for RAG, FastAPI backend, React frontend. Authentication is required.
+4. Final Test Deadline: Oct 31, 2026, 11:59 PM.
+5. AI Chatbot Features: Registration, login, new chat, persistent history grouped by date, rename, delete, RAG with citations.
